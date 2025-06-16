@@ -9,5 +9,5 @@ The dataset used in this project is the Pima Indians Diabetes Database. It conta
 
 Achieved accuracy:
 
-Genetic Algorithm  91%
-GA + MCTS          89.5%
+Genetic Algorithm:  91%
+GA + MCTS:          89.5%
